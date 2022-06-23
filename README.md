@@ -12,7 +12,7 @@ Jacob é uma inteligência artificial dinâmica com reconhecimento de fala em te
 <!-- Sobre o projeto Jacob. -->
 ## Sobre o [Jacob](https://github.com/mvrquxs/jacob-neural/) 🤖 
 
-[![IMAGE ALT TEXT](https://i.imgur.com/rLvNC6M.png)](http://www.youtube.com/watch?v=ol1F1ik-IEM "Conversação com Jacob I.A [GPT-3]")
+[![IMAGE ALT TEXT](https://i.imgur.com/JLZd92u.png)](http://www.youtube.com/watch?v=ol1F1ik-IEM "Conversação com Jacob I.A [GPT-3]")
 
 
 Jacob pode ser desde um **amigo** carinhoso com conhecimento em diversas esferas ou até mesmo um assistente virtual eficiente.<br>
@@ -105,5 +105,3 @@ python3 jacob.py
 ## License
 
 Este projeto está sob licença. Consulte o arquivo [LICENSE](https://github.com/mvrquxs/jacob-neural/blob/main/LICENSE) para obter mais detalhes.
-
-[⬆ Voltar ao topo](#sobre-o-jacob)<br>
