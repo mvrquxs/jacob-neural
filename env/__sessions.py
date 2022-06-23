@@ -3065,7 +3065,7 @@ opi_k = return_bs(op)
             'smHGB9pFx4n3jIEfDePQvCIrnn0J4B/gA5J4XcRfu4JZuRAw3C51OtOjM3l2bMb8' \
             'Br5eXCsT/w/EAAAAASUVORK5CYII=
 '''
-ack_ = return_bs(ack)
+
 '''
 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAA' \
             'LEwEAmpwYAAAB1klEQVQ4jY2TTUhUURTHf+fy/HrjhNEX2KRGiyIXg8xgSURuokX' \
@@ -3502,5 +3502,4 @@ ack_ = return_bs(ack)
             'smHGB9pFx4n3jIEfDePQvCIrnn0J4B/gA5J4XcRfu4JZuRAw3C51OtOjM3l2bMb8' \
             'Br5eXCsT/w/EAAAAASUVORK5CYII=
 '''
-asak_ = return_bs(asak)
 
