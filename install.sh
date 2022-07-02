@@ -47,6 +47,7 @@ if [ "$OS" = "Linux" ]; then
     sudo apt-get update
     sleep 2
     pip install -r requirements.txt
+    pip install gTTS
     sleep 2
     echo "\n\033[01;07m[!] Instalação concluída !\033[01;32m"
     read -p "[!] Deseja iniciar o software? [S/N]: " choose
