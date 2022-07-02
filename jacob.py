@@ -53,7 +53,7 @@ while 1:
                 sleep(0.2)
         else:
                 print(index.JCWarn.Reset + '\n[+] Reconhecimento de fala concluído.\n' + index.JCWarn.Bold)
-                print(index.JCWarn.Green + '[-] VOCÊ: como criar uma tabela no html')
+                print(index.JCWarn.Green + '[-] VOCÊ: ', usrsay)
                 
                 englishphrase = Translator().translate(usrsay, dest='en')
                 
@@ -78,7 +78,7 @@ while 1:
 
                 saybot.save("resultAI.mp3")
 
-                print(index.JCWarn.Bold + '[-] BOT:A tag utilizada para criar uma tabela HTML é a tag <table>, posteriormente fechada com </table>. Dentro dela, incluímos todos os elementos que compõem nossa tabela, ou seja, as células da tabela.')
+                print(index.JCWarn.Bold + '[-] BOT:', responsePT)
                 playsound("resultAI.mp3")
     except:
         choose = input(index.JCWarn.Underline + "\n\n[!] Você deseja sair? [S/N]: ")
